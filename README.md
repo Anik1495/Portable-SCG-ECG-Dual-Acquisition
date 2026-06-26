@@ -54,5 +54,4 @@ If you use this code or data, please cite the associated paper. [Add full citati
 once published.]
 
 ## Contact
-Name: Ferdous Wahid Anik
-Emai: ferdous.1495@gmail.com
+Name: Ferdous Wahid Anik; Email: ferdous.1495@gmail.com
